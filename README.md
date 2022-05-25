@@ -1,5 +1,6 @@
 # Time Series Final Project
 DS 6373
+
 Contributers: Ricco Ferraro, Nicole Norelli, & Nick Yu
 
 The objective of this analysis was to model and forecast electricity pricing time series data in the Dallas, TX area. The electricity pricing data is from the St. Louis Federal Reserve. We chose to model the data from January 2000 to present. Data from earlier dates had different behavior because it was before Texas deregulated electricity pricing. 
